@@ -1,10 +1,14 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
-    "image": "img/slide/slide01.jpg"
+    "image": "img/slide/image2.jpeg"
   },
   {
-    "title": "Sample text here...",
-    "image": "img/slide/slide02.jpg"
+    "image": "img/slide/image3.jpeg"
+  },
+  {
+    "image": "img/slide/image4.jpeg"
+  },
+  {
+    "image": "img/slide/image5.jpeg"
   }
 ]

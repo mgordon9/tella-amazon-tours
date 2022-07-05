@@ -2,6 +2,7 @@
 title: 'Contact'
 ---
 
-To contact us, please fill out the form below.
+Marden
 
-{{< form >}}
+WhatsApp Number: +51 965 634 826
+Email: Needs Email Address
